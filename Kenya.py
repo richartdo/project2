@@ -1,3 +1,1 @@
-print("hello world")
-
-print("mr kasongo must go")
+print("leo ni kumoto")
